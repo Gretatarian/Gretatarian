@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Gretatarian(Check my scratch account for my real name)
+- 👋 Hi, I’m @Btcreations
+- (Check my scratch account for my real name)
 - 👀 I’m interested in Automation, web developing and apps development  
 - 🌱 I’m currently learning C and C++ along with arduino and raspberry pi!
 - 💞️ I’m looking to collaborate on ...
